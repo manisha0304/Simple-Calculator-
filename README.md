@@ -1,4 +1,4 @@
-# Simple-Calculator-
+# Simple-Calculator-Task-2
 The Simple Calculator performs basic arithmetic operations. Users can input two numbers and choose an operation (addition, subtraction, multiplication, division, modulus, floor division or power). Here's how it works:
 
 User Input:
